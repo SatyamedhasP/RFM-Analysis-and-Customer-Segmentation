@@ -3,8 +3,8 @@ Description:
 This project focuses on performing RFM (Recency, Frequency, Monetary) analysis and K-means clustering on the Online Retail dataset. The goal is to gain insights into customer behavior, segment customers based on their transactional patterns, and identify distinct customer groups for targeted marketing strategies.
 
 - Libraries used: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Plotly, SciPy, Calendar
-- Notebook Link: [RFM Analysis and Customer Segmentation]
-- Tableau Workbook:
+- Notebook Link: [RFM Analysis and Customer Segmentation](https://github.com/SatyamedhasP/RFM-Analysis-and-Customer-Segmentation/blob/main/RFM_Customer_Segmentation.ipynb)
+- [Tableau Workbook]()
 - Dataset source: [Online Retail](https://archive.ics.uci.edu/dataset/352/online+retail)
 
 The project includes:
