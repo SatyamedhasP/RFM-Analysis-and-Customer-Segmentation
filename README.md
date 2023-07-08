@@ -4,7 +4,7 @@ This project focuses on performing RFM (Recency, Frequency, Monetary) analysis a
 
 - Libraries used: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Plotly, SciPy, Calendar
 - Notebook Link: [RFM Analysis and Customer Segmentation](https://github.com/SatyamedhasP/RFM-Analysis-and-Customer-Segmentation/blob/main/RFM_Customer_Segmentation.ipynb)
-- [Tableau Workbook]()
+- [Tableau Workbook](https://github.com/SatyamedhasP/RFM-Analysis-and-Customer-Segmentation/blob/main/RMF_Tableau.twb), please download and view the Tableau notebook.
 - Dataset source: [Online Retail](https://archive.ics.uci.edu/dataset/352/online+retail)
 
 The project includes:
